@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="REL001" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELIPSE" target="RETANGULO" edge="1">
+        <mxCell id="REL001" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;curved=0;perimeterSpacing=5;comic=1;jiggle=2;enumerate=0;orthogonal=0;" parent="1" source="ELIPSE" target="RETANGULO" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="500" />
@@ -13,10 +13,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RETANGULO" value="Teste" style="rounded=10;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ELIPSE" value="Elipse" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="470" y="500" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
