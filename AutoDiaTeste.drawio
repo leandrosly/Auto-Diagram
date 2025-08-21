@@ -7,8 +7,8 @@
         <mxCell id="REL001" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELIPSE" target="RETANGULO" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="500" />
-              <mxPoint x="830" y="180" />
+              <mxPoint x="370" y="500" />
+              <mxPoint x="370" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
